@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseWorkOne</string>
+    <string name="c1">Mobile Programming</string>
+    <string name="c2">OptoElectronics</string>
+    <string name="c3">ControlSystems</string>
+    <string name="c4">Project Planning</string>
+    <string name="c5">Computer Systems</string>
+</resources>
