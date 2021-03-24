@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private final int BUTTON_STATE_NINTH = 8;
     private final int BUTTON_STATE_TENTH = 9;
     private final int BUTTON_STATE_ELEVENTH = 10;
-    //
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
