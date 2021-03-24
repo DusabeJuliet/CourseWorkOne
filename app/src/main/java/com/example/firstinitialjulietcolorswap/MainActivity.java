@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private final int BUTTON_STATE_THRICE = 2;
     private final int BUTTON_STATE_FOURTH = 3;
     private final int BUTTON_STATE_FIFTH = 4;
-
+//
       int Count;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
