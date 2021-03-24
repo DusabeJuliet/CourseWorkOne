@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         txtchangecolor2=findViewById(R.id.txtcolor);
         btntoggle2=findViewById(R.id.btntap2);
 
-        //
+
         btntoggle2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
